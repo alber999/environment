@@ -25,6 +25,3 @@
 	autocorrect = 1
 [push]
 	default = tracking
-[difftool "sourcetree"]
-	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path =
